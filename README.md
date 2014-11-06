@@ -1,4 +1,4 @@
 grid.css
 ========
 
-My own grid system!
+This is a CSS grid system, to make your website responsive.
